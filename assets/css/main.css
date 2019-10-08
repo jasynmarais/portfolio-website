@@ -2414,7 +2414,11 @@ input, select, textarea {
 	.image {
 		border-radius: 5px;
 		border: 0;
-		display: inline-block;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 30px;
+  		width: 50%;
 		position: relative;
 	}
 
